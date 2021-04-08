@@ -1,0 +1,39 @@
+{
+  "Companies": [
+    {
+      "Detail": "For cloud solution, waiting for you",
+      "Heading": "Cloud NX",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
+    },
+    {
+      "Detail": "Best solution for system programs",
+      "Heading": "Microsoft",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
+    },
+    {
+      "Detail": "Spatial database is supported now",
+      "Heading": "Oracle",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+    },
+    {
+      "Detail": "Android is the best comprimise for mobile devices",
+      "Heading": "Google",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+    },
+    {
+      "Detail": "Have the largest cloud infrastructure",
+      "Heading": "Amazon",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+    },
+    {
+      "Detail": "Microprocessor center of the word",
+      "Heading": "Intel",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+    },
+    {
+      "Detail": "The oldest IT company",
+      "Heading": "IBM",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
+    }
+  ]
+}
